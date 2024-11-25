@@ -1,3 +1,7 @@
+# Generic DataGrid Demo
+
+The application demonstrates the creation of a generic DataGrid component integrated with backend services, fulfilling all specified requirements.
+
 ## Features
 
 ### Frontend
