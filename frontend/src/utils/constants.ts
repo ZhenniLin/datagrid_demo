@@ -1,0 +1,17 @@
+export const CAR_FORM_FIELDS = {
+  Brand: "Enter Brand Name",
+  Model: "Enter Model Name",
+  AccelSec: "Enter Acceleration (s)",
+  TopSpeed_KmH: "Enter Top Speed (km/h)",
+  Range_Km: "Enter Range (km)",
+  Efficiency_WhKm: "Enter Efficiency (Wh/km)",
+  FastCharge_KmH: "Enter Fast Charge Speed (km/h)",
+  RapidCharge: "Enter Rapid Charge Support",
+  PowerTrain: "Enter Power Train Type",
+  PlugType: "Enter Plug Type",
+  BodyStyle: "Enter Body Style",
+  Segment: "Enter Segment",
+  Seats: "Enter Number of Seats",
+  PriceEuro: "Enter Price (€)",
+  Date: "Enter Date",
+};
